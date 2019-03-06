@@ -1,5 +1,5 @@
 # Einsatztagebuch
-Dies ist ein System für BOS Einheiten zur computergestützten Dokumentation von Einsätzen auf mehreren Netzwerkarbeitsplätzen.
+Dies ist ein System für BOS Einheiten, wie Feuerwehr oder Rettungsdienst, zur computergestützten Dokumentation von Einsätzen auf mehreren Netzwerkarbeitsplätzen.
 
 Als Server empfiehlt sich ein Raspberry Pi. Es wird PHP, Apache und MySQL benötigt.
 
