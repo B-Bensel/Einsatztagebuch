@@ -1,0 +1,17 @@
+@media print
+{    
+	html{
+		font-family:Arial;
+	}
+    .no-print, .no-print *
+    {
+        display: none !important;
+    }
+}
+
+@media screen
+{
+	html{
+		font-family:Arial;
+	}	
+}
